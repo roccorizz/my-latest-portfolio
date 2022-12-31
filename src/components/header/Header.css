@@ -1,12 +1,12 @@
 .header {
     width: 100%;
     position: fixed;
-    padding-top: 15px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-top: 0;
     top: 0;
     left: 0;
-    z-index: 9999;
+    z-index: var(--z-fixed);
     background-color: #fff;
 }
 
