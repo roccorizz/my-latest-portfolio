@@ -10,7 +10,7 @@ export const PortfolioData = [
         title: "PropertyHomieRocco",
         description:
             "Its a Real-estate Agent website.In this website,an user can get to know about the real- estate agent and his services.Besides, they can have a look into multiple property listings of him.There is a contact form whereas an user can contact with the agent for any property query.",
-        website: "https://property-homie-rocco.web.app/"
+        website: "https://propertyhomie-66cbd.web.app/"
     },
     {
         id: 2,
